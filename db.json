@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "Messi",
+      "email": "messi@gmail.com",
+      "mobile": "8423749234",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "email": "john@yahoo.com",
+      "mobile": "3483467823",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Messi",
+      "email": "messi@gmail.com",
+      "mobile": "84237492125",
+      "gender": "Male"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
